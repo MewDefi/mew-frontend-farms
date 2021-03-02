@@ -130,6 +130,23 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
+  // {
+  //  pid: 31,
+  //  risk: 1,
+  //  isTokenOnly: true,
+  //  lpSymbol: 'VAI-BUSD LP',
+  //  lpAddresses: {
+  //    97: '',
+  //    56: '0xff17ff314925dff772b71abdff2782bc913b3575',
+  //  },
+  //  tokenSymbol: 'VAI',
+  //  tokenAddresses: {
+  //    97: '',
+  //    56: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7',
+  //  },
+  //  quoteTokenSymbol: QuoteToken.BUSD,
+  //  quoteTokenAdresses: contracts.busd,
+  // },
   {
     pid: 8,
     risk: 3,
@@ -363,6 +380,40 @@ const farms: FarmConfig[] = [
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
+  },
+  {
+    pid: 29,
+    risk: 1,
+    isTokenOnly: true,
+    lpSymbol: 'VAI',
+    lpAddresses: {
+      97: '',
+      56: '0xe62c5a3355068cc383d89ab831e000473c043cae', // VAI-BNB LP
+    },
+    tokenSymbol: 'VAI',
+    tokenAddresses: {
+      97: '',
+      56: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 30,
+    risk: 3,
+    isTokenOnly: true,
+    lpSymbol: 'XVS',
+    lpAddresses: {
+      97: '',
+      56: '0x41182c32f854dd97ba0e0b1816022e0acb2fc0bb', // XVS-BNB LP
+    },
+    tokenSymbol: 'XVS',
+    tokenAddresses: {
+      97: '',
+      56: '0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
   },
   {
     pid: 22,
