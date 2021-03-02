@@ -130,23 +130,6 @@ const farms: FarmConfig[] = [
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
   },
-  // {
-  //  pid: 31,
-  //  risk: 1,
-  //  isTokenOnly: true,
-  //  lpSymbol: 'VAI-BUSD LP',
-  //  lpAddresses: {
-  //    97: '',
-  //    56: '0xff17ff314925dff772b71abdff2782bc913b3575',
-  //  },
-  //  tokenSymbol: 'VAI',
-  //  tokenAddresses: {
-  //    97: '',
-  //    56: '0x4bd17003473389a42daf6a0a729f6fdb328bbbd7',
-  //  },
-  //  quoteTokenSymbol: QuoteToken.BUSD,
-  //  quoteTokenAdresses: contracts.busd,
-  // },
   {
     pid: 8,
     risk: 3,
@@ -530,6 +513,57 @@ const farms: FarmConfig[] = [
     tokenAddresses: {
       97: '',
       56: '0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 32,
+    risk: 3,
+    isTokenOnly: true,
+    lpSymbol: 'YFII',
+    lpAddresses: {
+      97: '',
+      56: '0x574a978c2d0d36d707a05e459466c7a1054f1210', // YFII-BNB LP
+    },
+    tokenSymbol: 'YFII',
+    tokenAddresses: {
+      97: '',
+      56: '0x7f70642d88cf1c4a3a7abb072b53b929b653eda5',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 33,
+    risk: 3,
+    isTokenOnly: true,
+    lpSymbol: 'REEF',
+    lpAddresses: {
+      97: '',
+      56: '0x58b58cab6c5cf158f63a2390b817710826d116d0', // REEF-BNB LP
+    },
+    tokenSymbol: 'REEF',
+    tokenAddresses: {
+      97: '',
+      56: '0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 35,
+    risk: 3,
+    isTokenOnly: true,
+    lpSymbol: 'BDO',
+    lpAddresses: {
+      97: '',
+      56: '0x74690f829fec83ea424ee1f1654041b2491a7be9', // BDO-BNB LP
+    },
+    tokenSymbol: 'BDO',
+    tokenAddresses: {
+      97: '',
+      56: '0x190b589cf9fb8ddeabbfeae36a813ffb2a702454',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
