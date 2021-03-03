@@ -12,10 +12,31 @@ const farms: FarmConfig[] = ["
 _footer="]
 export default farms"
 
+_mdheader="/*
+PID | Name | TokenOnly | Address | AllocationBP | FeeBP
+-|-|-|-|-|-"
+_mdfooter="
+## Allocation
+BP | Multiplicator
+-|-
+100 | 1x
+1000 | 10x
+10000 | 100x
+
+## Fee
+BP | %
+-|-
+100 | 1%
+1000 | 10%
+10000 | 100%
+*/"
+
 _pid=0
 
 while IFS= read -r _pool; do
   _risk=$(echo "$_pool" | jq .risk | sed 's/^\"//g; s/\"$//g')
+  _alloc=$(echo "$_pool" | jq .allocation | sed 's/^\"//g; s/\"$//g')
+  _fee=$(echo "$_pool" | jq .fee | sed 's/^\"//g; s/\"$//g')
   _isTokenOnly=$(echo "$_pool" | jq .isTokenOnly | sed 's/^\"//g; s/\"$//g')
   _lpSymbol=$(echo "$_pool" | jq .lpSymbol | sed 's/^\"//g; s/\"$//g')
   _lpAddress=$(echo "$_pool" | jq .lpAddress | sed 's/^\"//g; s/\"$//g')
@@ -42,7 +63,9 @@ quoteTokenSymbol: $_quoteTokenSymbol,
 quoteTokenAdresses: $_quoteTokenAddress,
 },"
 
+  md="$md\n$_pid | $_lpSymbol | $([ "$_isTokenOnly" == "true" ] && echo "true" || echo "false") | $([ "$_isTokenOnly" == "true" ] && echo "$_tokenAddress" || echo "$_lpAddress") | $_alloc | $_fee"
+
   _pid=$((_pid+1))
 done < <(jq -c '.[]' < "$1")
 
-echo -e "$_header\n$pools\n$_footer"
+echo -e "$_mdheader$md\n$_mdfooter\n\n$_header\n$pools\n$_footer"

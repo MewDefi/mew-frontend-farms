@@ -1,23 +1,29 @@
 [
   {
+    "allocation": 4000,
+    "fee": 0,
     "risk": 5,
     "lpSymbol": "MEW-BUSD LP",
-    "lpAddress": "0x45b604027262cca499519ef66ed768c43211e0cf",
+    "lpAddress": "0xd6c195cab85e59ace86d473e2e1072178a7559fc",
     "tokenSymbol": "EGG",
-    "tokenAddress": "0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584",
+    "tokenAddress": "0x83a0a1aebc347e36e45df6b83aaf85419bcf9411",
     "quoteTokenSymbol": "QuoteToken.BUSD",
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 2500,
+    "fee": 0,
     "risk": 5,
     "lpSymbol": "MEW-BNB LP",
-    "lpAddress": "0x5c2e3fde2a19abb72f6d43d9a8c0940f7d89af20",
+    "lpAddress": "0x737ae23900dd4b9174c195effb01be5d6d838e51",
     "tokenSymbol": "EGG",
-    "tokenAddress": "0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584",
+    "tokenAddress": "0x83a0a1aebc347e36e45df6b83aaf85419bcf9411",
     "quoteTokenSymbol": "QuoteToken.BNB",
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 500,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "BNB-BUSD LP",
     "lpAddress": "0x1b96b92314c44b159149f7e0303511fb2fc4774f",
@@ -27,6 +33,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 500,
+    "fee": 400,
     "risk": 1,
     "lpSymbol": "USDT-BUSD LP",
     "lpAddress": "0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd",
@@ -36,6 +44,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "EGG-BUSD LP",
     "lpAddress": "0x19e7cbecdd23a16dfa5573df54d98f7caae03019",
@@ -45,6 +55,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "VIKING-BUSD LP",
     "lpAddress": "0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43",
@@ -54,6 +66,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 600,
+    "fee": 400,
     "risk": 2,
     "lpSymbol": "BTCB-BNB LP",
     "lpAddress": "0x7561eee90e24f3b348e1087a005f78b4c8453524",
@@ -63,6 +77,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 600,
+    "fee": 400,
     "risk": 2,
     "lpSymbol": "ETH-BNB LP",
     "lpAddress": "0x70d8929d04b60af4fb9b58713ebcf18765ade422",
@@ -72,6 +88,19 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 600,
+    "fee": 400,
+    "risk": 2,
+    "lpSymbol": "BETH-BNB LP",
+    "lpAddress": "0x81019ffd087a9c9e923ee15249c980d5726bc988",
+    "tokenSymbol": "BETH",
+    "tokenAddress": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 400,
+    "fee": 400,
     "risk": 1,
     "lpSymbol": "DAI-BUSD LP",
     "lpAddress": "0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc",
@@ -81,6 +110,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 400,
+    "fee": 400,
     "risk": 1,
     "lpSymbol": "USDC-BUSD LP",
     "lpAddress": "0x680dd100e4b394bda26a59dd5c119a391e747d18",
@@ -90,6 +121,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 600,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "LINK-BNB LP",
     "lpAddress": "0xaebe45e3a03b734c68e5557ae04bfc76917b4686",
@@ -99,6 +132,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 600,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "DOT-BNB LP",
     "lpAddress": "0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c",
@@ -108,6 +143,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 4,
     "lpSymbol": "CAKE-BUSD LP",
     "lpAddress": "0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458",
@@ -117,6 +154,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 4,
     "lpSymbol": "CAKE-BNB LP",
     "lpAddress": "0xa527a61703d82139f8a06bc30097cc9caa2df5a6",
@@ -126,6 +165,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "AUTO-BNB LP",
     "lpAddress": "0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56",
@@ -135,6 +176,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "ADA-BNB LP",
     "lpAddress": "0xba51d1ab95756ca4eab8737ecd450cd8f05384cf",
@@ -144,6 +187,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "YFI-BNB LP",
     "lpAddress": "0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1",
@@ -153,6 +198,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "YFII-BNB LP",
     "lpAddress": "0x574a978c2d0d36d707a05e459466c7a1054f1210",
@@ -162,6 +209,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "REEF-BNB LP",
     "lpAddress": "0x58b58cab6c5cf158f63a2390b817710826d116d0",
@@ -171,6 +220,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "BDO-BNB LP",
     "lpAddress": "0x74690f829fec83ea424ee1f1654041b2491a7be9",
@@ -180,6 +231,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "UNI-BNB LP",
     "lpAddress": "0x4269e7f43a63cea1ad7707be565a94a9189967e9",
@@ -189,6 +242,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "BIFI-BNB LP",
     "lpAddress": "0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd",
@@ -198,6 +253,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "COMP-BNB LP",
     "lpAddress": "0x6398f936b423adaad3a58b2eb3683f826c717bd8",
@@ -207,6 +264,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "UNFI-BNB LP",
     "lpAddress": "0xbea35584b9a88107102abef0bdee2c4fae5d8c31",
@@ -216,6 +275,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "ATOM-BNB LP",
     "lpAddress": "0x2333c77fc0b2875c11409cdcd3c75d42d402e834",
@@ -225,6 +286,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "lpSymbol": "FRONT-BNB LP",
     "lpAddress": "0x36b7d2e5c7877392fb17f9219efad56f3d794700",
@@ -234,16 +297,42 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
+    "risk": 3,
+    "lpSymbol": "EGLD-BNB LP",
+    "lpAddress": "0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716",
+    "tokenSymbol": "EGLD",
+    "tokenAddress": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 200,
+    "fee": 400,
+    "risk": 3,
+    "lpSymbol": "XRP-BNB LP",
+    "lpAddress": "0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2",
+    "tokenSymbol": "XRP",
+    "tokenAddress": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 1000,
+    "fee": 0,
     "risk": 5,
     "isTokenOnly": true,
     "lpSymbol": "MEW",
-    "lpAddress": "0x45b604027262cca499519ef66ed768c43211e0cf",
+    "lpAddress": "0xd6c195cab85e59ace86d473e2e1072178a7559fc",
     "tokenSymbol": "EGG",
-    "tokenAddress": "0xd592dfe9e1b687b1d9dbdacf5b9f0789cc9cd584",
+    "tokenAddress": "0x83a0a1aebc347e36e45df6b83aaf85419bcf9411",
     "quoteTokenSymbol": "QuoteToken.BUSD",
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 1,
     "isTokenOnly": true,
     "lpSymbol": "BUSD",
@@ -254,6 +343,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 300,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "WBNB",
@@ -264,6 +355,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 300,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "EGG",
@@ -274,6 +367,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 300,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "VIKING",
@@ -284,6 +379,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 1,
     "isTokenOnly": true,
     "lpSymbol": "USDT",
@@ -294,6 +391,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 2,
     "isTokenOnly": true,
     "lpSymbol": "BTCB",
@@ -304,6 +403,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 2,
     "isTokenOnly": true,
     "lpSymbol": "ETH",
@@ -314,6 +415,20 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
+    "risk": 2,
+    "isTokenOnly": true,
+    "lpSymbol": "BETH",
+    "lpAddress": "0x81019ffd087a9c9e923ee15249c980d5726bc988",
+    "tokenSymbol": "BETH",
+    "tokenAddress": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 100,
+    "fee": 400,
     "risk": 1,
     "isTokenOnly": true,
     "lpSymbol": "DAI",
@@ -324,6 +439,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 1,
     "isTokenOnly": true,
     "lpSymbol": "USDC",
@@ -334,6 +451,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 1,
     "isTokenOnly": true,
     "lpSymbol": "VAI",
@@ -344,6 +463,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "XVS",
@@ -354,6 +475,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "LINK",
@@ -364,6 +487,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 200,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "DOT",
@@ -374,6 +499,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 4,
     "isTokenOnly": true,
     "lpSymbol": "CAKE",
@@ -384,6 +511,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "BSCX",
@@ -394,6 +523,8 @@
     "quoteTokenAddress": "contracts.busd"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "AUTO",
@@ -404,6 +535,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "ADA",
@@ -414,6 +547,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "YFI",
@@ -424,6 +559,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "YFII",
@@ -434,6 +571,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "REEF",
@@ -444,6 +583,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "BDO",
@@ -454,6 +595,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "UNI",
@@ -464,6 +607,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "BIFI",
@@ -474,6 +619,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "COMP",
@@ -484,6 +631,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "UNFI",
@@ -494,6 +643,8 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "ATOM",
@@ -504,12 +655,50 @@
     "quoteTokenAddress": "contracts.wbnb"
   },
   {
+    "allocation": 100,
+    "fee": 400,
     "risk": 3,
     "isTokenOnly": true,
     "lpSymbol": "FRONT",
     "lpAddress": "0x36b7d2e5c7877392fb17f9219efad56f3d794700",
     "tokenSymbol": "FRONT",
     "tokenAddress": "0x928e55dab735aa8260af3cedada18b5f70c72f1b",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 100,
+    "fee": 400,
+    "risk": 3,
+    "isTokenOnly": true,
+    "lpSymbol": "DITTO",
+    "lpAddress": "0x470bc451810b312bbb1256f96b0895d95ea659b1",
+    "tokenSymbol": "DITTO",
+    "tokenAddress": "0x233d91a0713155003fc4dce0afa871b508b3b715",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 100,
+    "fee": 400,
+    "risk": 3,
+    "isTokenOnly": true,
+    "lpSymbol": "EGLD",
+    "lpAddress": "0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716",
+    "tokenSymbol": "EGLD",
+    "tokenAddress": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
+    "quoteTokenSymbol": "QuoteToken.BNB",
+    "quoteTokenAddress": "contracts.wbnb"
+  },
+  {
+    "allocation": 100,
+    "fee": 400,
+    "risk": 3,
+    "isTokenOnly": true,
+    "lpSymbol": "XRP",
+    "lpAddress": "0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2",
+    "tokenSymbol": "XRP",
+    "tokenAddress": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
     "quoteTokenSymbol": "QuoteToken.BNB",
     "quoteTokenAddress": "contracts.wbnb"
   }
