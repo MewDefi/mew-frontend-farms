@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pikachudefi.com/',
+        href: 'https://exchange.mewdefi.com/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pikachudefi.com/#/pool',
+        href: 'https://exchange.mewdefi.com/#/pool',
       },
     ],
   },
@@ -73,11 +73,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/PikachuDefi/',
+        href: 'https://github.com/MewDefi/',
       },
       {
         label: 'Wiki',
-        href: 'https://github.com/PikachuDefi/pikachu-contracts/wiki',
+        href: 'https://github.com/MewDefi/mew-contracts/wiki',
       },
       // {
       //   label: 'Blog',

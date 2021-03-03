@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total PIKACHU burned since launch"
+        "text": "Total MEW burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn PIKACHU"
+        "text": "Stake LP tokens to earn MEW"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Pikachu, get SYRUP."
+        "text": "Stake Mew, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake PIKACHU tokens, the contract will automatically harvest PIKACHU rewards for you!"
+        "text": "Every time you stake and unstake MEW tokens, the contract will automatically harvest MEW rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Pikachu price"
+        "text": "Mew price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 PIKACHU = 1 SYRUP"
+        "text": "1 MEW = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of PIKACHU block emissions each day (10 PIKACHU per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of MEW block emissions each day (10 MEW per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% PIKACHU"
+        "text": "%num% MEW"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend PIKACHU to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend MEW to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% PIKACHU Available"
+        "text": "%num% MEW Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 PIKACHU"
+        "text": "Your amount must be a multiple of 10 MEW"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 PIKACHU"
+        "text": "1 Ticket = 10 MEW"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your PIKACHU cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your MEW cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "PIKACHU prizes to be claimed"
+        "text": "MEW prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve PIKACHU"
+        "text": "Approve MEW"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of PIKACHU block emissions each day (10 PIKACHU per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of MEW block emissions each day (10 MEW per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using PIKACHU-BNB LP tokens, which means you need to stake equal amounts of PIKACHU and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using MEW-BNB LP tokens, which means you need to stake equal amounts of MEW and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get PIKACHU-BNB LP >"
+        "text": "Get MEW-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Pikachu Finance burns the PIKACHU."
+        "text": "The project gets the BNB, Mew Finance burns the MEW."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Pikachu Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with Mew Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Pikachu Stats"
+        "text": "Mew Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New PIKACHU\/block"
+        "text": "New MEW\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "PIKACHU to Harvest"
+        "text": "MEW to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "PIKACHU in Wallet"
+        "text": "MEW in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting PIKACHU"
+        "text": "Collecting MEW"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "PIKACHU to Collect"
+        "text": "MEW to Collect"
       }
     },
     {
@@ -753,19 +753,19 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Pikachu Finance"
+        "text": "Mew Finance"
       }
     },
     {
       "data": {
         "stringId": 578,
-        "text": "The only yield farm for Pikachu's on there way to the Moon."
+        "text": "The only yield farm for Mew's on there way to the Moon."
       }
     },
     {
       "data": {
         "stringId": 580,
-        "text": "Stake PIKACHU to earn new tokens."
+        "text": "Stake MEW to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "PIKACHU to burn (USD)"
+        "text": "MEW to burn (USD)"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest PIKACHU rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest MEW rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy PIKACHU and BNB tokens"
+        "text": "Buy MEW and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get PIKACHU-BNB LP tokens by adding PIKACHU and BNB liquidity"
+        "text": "Get MEW-BNB LP tokens by adding MEW and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your PIKACHU-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your MEW-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for PIKACHU, or keep for your collection!"
+        "text": "Trade in for MEW, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive PIKACHU, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive MEW, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a PIKACHU value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a MEW value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for PIKACHU"
+        "text": "Trade in for MEW"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn PIKACHU"
+        "text": "Stake LP tokens to earn MEW"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The PIKACHU Lottery"
+        "text": "The MEW Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with PIKACHU"
+        "text": "Buy tickets with MEW"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback PIKACHU"
+        "text": "Deposit Fee will be used to buyback MEW"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn PIKACHU"
+        "text": "Stake tokens to earn MEW"
       }
     },
     {

@@ -1,5 +1,5 @@
-# Pikachu Finance Frontend
+# Mew Finance Frontend
 
-This project contains the main features of the pikachudefi application.
+This project contains the main features of the mewdefi application.
 
 If you want to contribute, please refer to the [contributing guidelines](./CONTRIBUTING.md) of this project.
