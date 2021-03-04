@@ -73,15 +73,6 @@
       "quoteTokenAddress": "contracts.busd"
     },
     {
-      "allocation": 200,
-      "lpSymbol": "FLP-BNB LP",
-      "lpAddress": "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d",
-      "tokenSymbol": "FLP",
-      "tokenAddress": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
-      "quoteTokenSymbol": "QuoteToken.BNB",
-      "quoteTokenAddress": "contracts.wbnb"
-    },
-    {
       "allocation": 600,
       "lpSymbol": "BTCB-BNB LP",
       "lpAddress": "0x7561eee90e24f3b348e1087a005f78b4c8453524",
@@ -224,6 +215,33 @@
       "tokenAddress": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
       "quoteTokenSymbol": "QuoteToken.BNB",
       "quoteTokenAddress": "contracts.wbnb"
+    },
+    {
+      "allocation": 200,
+      "lpSymbol": "XLM-BNB LP",
+      "lpAddress": "0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb",
+      "tokenSymbol": "XLM",
+      "tokenAddress": "0x2d0596a41b29463fc59491b24cb7e58dafeeabf6",
+      "quoteTokenSymbol": "QuoteToken.BNB",
+      "quoteTokenAddress": "contracts.wbnb"
+    },
+    {
+      "allocation": 200,
+      "lpSymbol": "DOGE-BUSD LP",
+      "lpAddress": "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3",
+      "tokenSymbol": "DOGE",
+      "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "quoteTokenSymbol": "QuoteToken.BUSD",
+      "quoteTokenAddress": "contracts.busd"
+    },
+    {
+      "allocation": 200,
+      "lpSymbol": "DODO-BUSD LP",
+      "lpAddress": "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3",
+      "tokenSymbol": "DODO",
+      "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "quoteTokenSymbol": "QuoteToken.BUSD",
+      "quoteTokenAddress": "contracts.busd"
     },
     {
       "allocation": 200,
@@ -397,6 +415,15 @@
       "quoteTokenAddress": "contracts.wbnb"
     },
     {
+      "allocation": 200,
+      "lpSymbol": "FLP-BNB LP",
+      "lpAddress": "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d",
+      "tokenSymbol": "FLP",
+      "tokenAddress": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
+      "quoteTokenSymbol": "QuoteToken.BNB",
+      "quoteTokenAddress": "contracts.wbnb"
+    },
+    {
       "tokenOnly": true,
       "nativeToken": true,
       "lpSymbol": "MEW",
@@ -453,16 +480,6 @@
       "tokenAddress": "0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1",
       "quoteTokenSymbol": "QuoteToken.BUSD",
       "quoteTokenAddress": "contracts.busd"
-    },
-    {
-      "allocation": 200,
-      "tokenOnly": true,
-      "lpSymbol": "FLP",
-      "lpAddress": "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d",
-      "tokenSymbol": "FLP",
-      "tokenAddress": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
-      "quoteTokenSymbol": "QuoteToken.BNB",
-      "quoteTokenAddress": "contracts.wbnb"
     },
     {
       "tokenOnly": true,
@@ -648,6 +665,24 @@
     },
     {
       "tokenOnly": true,
+      "lpSymbol": "XLM",
+      "lpAddress": "0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb",
+      "tokenSymbol": "XLM",
+      "tokenAddress": "0x2d0596a41b29463fc59491b24cb7e58dafeeabf6",
+      "quoteTokenSymbol": "QuoteToken.BNB",
+      "quoteTokenAddress": "contracts.wbnb"
+    },
+    {
+      "tokenOnly": true,
+      "lpSymbol": "DOGE",
+      "lpAddress": "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3",
+      "tokenSymbol": "DOGE",
+      "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+      "quoteTokenSymbol": "QuoteToken.BUSD",
+      "quoteTokenAddress": "contracts.busd"
+    },
+    {
+      "tokenOnly": true,
       "lpSymbol": "YFI",
       "lpAddress": "0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1",
       "tokenSymbol": "YFI",
@@ -823,6 +858,16 @@
       "lpAddress": "0x35fe9787f0ebf2a200bac413d3030cf62d312774",
       "tokenSymbol": "FIL",
       "tokenAddress": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+      "quoteTokenSymbol": "QuoteToken.BNB",
+      "quoteTokenAddress": "contracts.wbnb"
+    },
+    {
+      "allocation": 200,
+      "tokenOnly": true,
+      "lpSymbol": "FLP",
+      "lpAddress": "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d",
+      "tokenSymbol": "FLP",
+      "tokenAddress": "0x87ff96aba480f1813af5c780387d8de7cf7d8261",
       "quoteTokenSymbol": "QuoteToken.BNB",
       "quoteTokenAddress": "contracts.wbnb"
     }
