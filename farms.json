@@ -862,7 +862,6 @@
       "quoteTokenAddress": "contracts.wbnb"
     },
     {
-      "allocation": 200,
       "tokenOnly": true,
       "lpSymbol": "FLP",
       "lpAddress": "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d",

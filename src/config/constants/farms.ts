@@ -93,7 +93,7 @@ PID | Name | TokenOnly | Address | AllocationBP | FeeBP
 89 | INJ | true | 0xa2b726b1145a4773f68593cf171187d8ebe4d495 | 100 | 400
 90 | EOS | true | 0x56b6fb708fc5732dec1afc8d8556423a2edccbd6 | 100 | 400
 91 | FIL | true | 0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153 | 100 | 400
-92 | FLP | true | 0x87ff96aba480f1813af5c780387d8de7cf7d8261 | 200 | 400
+92 | FLP | true | 0x87ff96aba480f1813af5c780387d8de7cf7d8261 | 100 | 400
 
 ## Allocation
 BP | Multiplicator
@@ -394,7 +394,7 @@ process.stdout.write("checking pool existence: FIL..."); if (await chef.poolExis
 await chef.add("FIL", "100", "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153", "400", false); // FIL
 console.log(" done"); }
 process.stdout.write("checking pool existence: FLP..."); if (await chef.poolExistence("0x87ff96aba480f1813af5c780387d8de7cf7d8261")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FLP...");
-await chef.add("FLP", "200", "0x87ff96aba480f1813af5c780387d8de7cf7d8261", "400", false); // FLP
+await chef.add("FLP", "100", "0x87ff96aba480f1813af5c780387d8de7cf7d8261", "400", false); // FLP
 console.log(" done"); }
 console.log("done.");
 }
