@@ -2,98 +2,98 @@
 PID | Name | TokenOnly | Address | AllocationBP | FeeBP
 -|-|-|-|-|-
 0 | MEW-BUSD LP | false | 0xd6c195cab85e59ace86d473e2e1072178a7559fc | 4000 | 0
-1 | BNB-BUSD LP | false | 0x1b96b92314c44b159149f7e0303511fb2fc4774f | 500 | 400
-2 | USDT-BUSD LP | false | 0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd | 500 | 400
-3 | EGG-BUSD LP | false | 0x19e7cbecdd23a16dfa5573df54d98f7caae03019 | 200 | 400
-4 | VIKING-BUSD LP | false | 0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43 | 200 | 400
-5 | SLIME-BUSD LP | false | 0xfbd0b87f4132e5a14aa85c21476738c0c13fd06c | 200 | 400
-6 | BTCB-BNB LP | false | 0x7561eee90e24f3b348e1087a005f78b4c8453524 | 600 | 400
-7 | ETH-BNB LP | false | 0x70d8929d04b60af4fb9b58713ebcf18765ade422 | 600 | 400
-8 | BCH-BNB LP | false | 0x54edd846db17f43b6e43296134ecd96284671e81 | 400 | 400
-9 | LTC-BNB LP | false | 0xbc765fd113c5bdb2ebc25f711191b56bb8690aec | 400 | 400
-10 | XTZ-BNB LP | false | 0x5acac332f0f49c8badc7afd0134ad19d3db972e6 | 200 | 400
-11 | ONT-BNB LP | false | 0x8ea21d0119162808ebfce8dce4362a8361e8b8f3 | 200 | 400
-12 | BETH-BNB LP | false | 0x81019ffd087a9c9e923ee15249c980d5726bc988 | 600 | 400
-13 | DAI-BUSD LP | false | 0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc | 400 | 400
-14 | USDC-BUSD LP | false | 0x680dd100e4b394bda26a59dd5c119a391e747d18 | 400 | 400
-15 | LINK-BNB LP | false | 0xaebe45e3a03b734c68e5557ae04bfc76917b4686 | 600 | 400
-16 | DOT-BNB LP | false | 0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c | 600 | 400
-17 | CAKE-BUSD LP | false | 0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458 | 200 | 400
-18 | CAKE-BNB LP | false | 0xa527a61703d82139f8a06bc30097cc9caa2df5a6 | 200 | 400
-19 | BAKE-BNB LP | false | 0x3da30727ed0626b78c212e81b37b97a8ef8a25bb | 200 | 400
-20 | AUTO-BNB LP | false | 0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56 | 200 | 400
-21 | ADA-BNB LP | false | 0xba51d1ab95756ca4eab8737ecd450cd8f05384cf | 200 | 400
-22 | XLM-BNB LP | false | 0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb | 200 | 400
-23 | DOGE-BUSD LP | false | 0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3 | 200 | 400
-24 | DODO-BUSD LP | false | 0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3 | 200 | 400
-25 | YFI-BNB LP | false | 0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1 | 200 | 400
-26 | YFII-BNB LP | false | 0x574a978c2d0d36d707a05e459466c7a1054f1210 | 200 | 400
-27 | REEF-BNB LP | false | 0x58b58cab6c5cf158f63a2390b817710826d116d0 | 200 | 400
-28 | BDO-BNB LP | false | 0x74690f829fec83ea424ee1f1654041b2491a7be9 | 200 | 400
-29 | sBDO-BNB LP | false | 0xa0718093baa3e7aae054eed71f303a4ebc1c076f | 200 | 400
-30 | UNI-BNB LP | false | 0x4269e7f43a63cea1ad7707be565a94a9189967e9 | 200 | 400
-31 | CREAM-BNB LP | false | 0xf651951d82488167741854f0d364c13440c566e3 | 200 | 400
-32 | BIFI-BNB LP | false | 0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd | 200 | 400
-33 | COMP-BNB LP | false | 0x6398f936b423adaad3a58b2eb3683f826c717bd8 | 200 | 400
-34 | UNFI-BNB LP | false | 0xbea35584b9a88107102abef0bdee2c4fae5d8c31 | 200 | 400
-35 | ATOM-BNB LP | false | 0x2333c77fc0b2875c11409cdcd3c75d42d402e834 | 200 | 400
-36 | FRONT-BNB LP | false | 0x36b7d2e5c7877392fb17f9219efad56f3d794700 | 200 | 400
-37 | EGLD-BNB LP | false | 0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716 | 200 | 400
-38 | XRP-BNB LP | false | 0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2 | 200 | 400
-39 | BAND-BNB LP | false | 0xc639187ef82271d8f517de6feae4faf5b517533c | 200 | 400
-40 | ACS-BNB LP | false | 0x2366ec9ddd1eb27506fa2ed48da8f2d9e99ed3c7 | 200 | 400
-41 | INJ-BNB LP | false | 0x7a34bd64d18e44cfde3ef4b81b87baf3eb3315b6 | 200 | 400
-42 | EOS-BNB LP | false | 0x981d2ba1b298888408d342c39c2ab92e8991691e | 200 | 400
-43 | FIL-BNB LP | false | 0x35fe9787f0ebf2a200bac413d3030cf62d312774 | 200 | 400
-44 | FLP-BNB LP | false | 0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d | 200 | 400
+1 | BNB-BUSD LP | false | 0x1b96b92314c44b159149f7e0303511fb2fc4774f | 500 | 500
+2 | USDT-BUSD LP | false | 0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd | 500 | 500
+3 | EGG-BUSD LP | false | 0x19e7cbecdd23a16dfa5573df54d98f7caae03019 | 200 | 500
+4 | VIKING-BUSD LP | false | 0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43 | 200 | 500
+5 | SLIME-BUSD LP | false | 0xfbd0b87f4132e5a14aa85c21476738c0c13fd06c | 200 | 500
+6 | BTCB-BNB LP | false | 0x7561eee90e24f3b348e1087a005f78b4c8453524 | 600 | 500
+7 | ETH-BNB LP | false | 0x70d8929d04b60af4fb9b58713ebcf18765ade422 | 600 | 500
+8 | BCH-BNB LP | false | 0x54edd846db17f43b6e43296134ecd96284671e81 | 400 | 500
+9 | LTC-BNB LP | false | 0xbc765fd113c5bdb2ebc25f711191b56bb8690aec | 400 | 500
+10 | XTZ-BNB LP | false | 0x5acac332f0f49c8badc7afd0134ad19d3db972e6 | 200 | 500
+11 | ONT-BNB LP | false | 0x8ea21d0119162808ebfce8dce4362a8361e8b8f3 | 200 | 500
+12 | BETH-BNB LP | false | 0x81019ffd087a9c9e923ee15249c980d5726bc988 | 600 | 500
+13 | DAI-BUSD LP | false | 0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc | 400 | 500
+14 | USDC-BUSD LP | false | 0x680dd100e4b394bda26a59dd5c119a391e747d18 | 400 | 500
+15 | LINK-BNB LP | false | 0xaebe45e3a03b734c68e5557ae04bfc76917b4686 | 600 | 500
+16 | DOT-BNB LP | false | 0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c | 600 | 500
+17 | CAKE-BUSD LP | false | 0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458 | 200 | 500
+18 | CAKE-BNB LP | false | 0xa527a61703d82139f8a06bc30097cc9caa2df5a6 | 200 | 500
+19 | BAKE-BNB LP | false | 0x3da30727ed0626b78c212e81b37b97a8ef8a25bb | 200 | 500
+20 | AUTO-BNB LP | false | 0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56 | 200 | 500
+21 | ADA-BNB LP | false | 0xba51d1ab95756ca4eab8737ecd450cd8f05384cf | 200 | 500
+22 | XLM-BNB LP | false | 0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb | 200 | 500
+23 | DOGE-BUSD LP | false | 0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3 | 200 | 500
+24 | DODO-BUSD LP | false | 0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3 | 200 | 500
+25 | YFI-BNB LP | false | 0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1 | 200 | 500
+26 | YFII-BNB LP | false | 0x574a978c2d0d36d707a05e459466c7a1054f1210 | 200 | 500
+27 | REEF-BNB LP | false | 0x58b58cab6c5cf158f63a2390b817710826d116d0 | 200 | 500
+28 | BDO-BNB LP | false | 0x74690f829fec83ea424ee1f1654041b2491a7be9 | 200 | 500
+29 | sBDO-BNB LP | false | 0xa0718093baa3e7aae054eed71f303a4ebc1c076f | 200 | 500
+30 | UNI-BNB LP | false | 0x4269e7f43a63cea1ad7707be565a94a9189967e9 | 200 | 500
+31 | CREAM-BNB LP | false | 0xf651951d82488167741854f0d364c13440c566e3 | 200 | 500
+32 | BIFI-BNB LP | false | 0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd | 200 | 500
+33 | COMP-BNB LP | false | 0x6398f936b423adaad3a58b2eb3683f826c717bd8 | 200 | 500
+34 | UNFI-BNB LP | false | 0xbea35584b9a88107102abef0bdee2c4fae5d8c31 | 200 | 500
+35 | ATOM-BNB LP | false | 0x2333c77fc0b2875c11409cdcd3c75d42d402e834 | 200 | 500
+36 | FRONT-BNB LP | false | 0x36b7d2e5c7877392fb17f9219efad56f3d794700 | 200 | 500
+37 | EGLD-BNB LP | false | 0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716 | 200 | 500
+38 | XRP-BNB LP | false | 0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2 | 200 | 500
+39 | BAND-BNB LP | false | 0xc639187ef82271d8f517de6feae4faf5b517533c | 200 | 500
+40 | ACS-BNB LP | false | 0x2366ec9ddd1eb27506fa2ed48da8f2d9e99ed3c7 | 200 | 500
+41 | INJ-BNB LP | false | 0x7a34bd64d18e44cfde3ef4b81b87baf3eb3315b6 | 200 | 500
+42 | EOS-BNB LP | false | 0x981d2ba1b298888408d342c39c2ab92e8991691e | 200 | 500
+43 | FIL-BNB LP | false | 0x35fe9787f0ebf2a200bac413d3030cf62d312774 | 200 | 500
+44 | FLP-BNB LP | false | 0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d | 200 | 500
 45 | MEW | true | 0x83a0a1aebc347e36e45df6b83aaf85419bcf9411 | 1000 | 0
-46 | BUSD | true | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | 200 | 400
-47 | WBNB | true | 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c | 300 | 400
-48 | EGG | true | 0xf952fc3ca7325cc27d15885d37117676d25bfda6 | 300 | 400
-49 | VIKING | true | 0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0 | 300 | 400
-50 | SLIME | true | 0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1 | 200 | 400
-51 | USDT | true | 0x55d398326f99059ff775485246999027b3197955 | 100 | 400
-52 | BTCB | true | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | 200 | 400
-53 | ETH | true | 0x2170ed0880ac9a755fd29b2688956bd959f933f8 | 200 | 400
-54 | BCH | true | 0x8ff795a6f4d97e7887c79bea79aba5cc76444adf | 200 | 400
-55 | LTC | true | 0x4338665cbb7b2485a8855a139b75d5e34ab0db94 | 200 | 400
-56 | XTZ | true | 0x16939ef78684453bfdfb47825f8a5f714f12623a | 200 | 400
-57 | ONT | true | 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335 | 200 | 400
-58 | BETH | true | 0x250632378e573c6be1ac2f97fcdf00515d0aa91b | 200 | 400
-59 | DAI | true | 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3 | 100 | 400
-60 | USDC | true | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d | 100 | 400
-61 | VAI | true | 0x4bd17003473389a42daf6a0a729f6fdb328bbbd7 | 100 | 400
-62 | XVS | true | 0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63 | 200 | 400
-63 | LINK | true | 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd | 200 | 400
-64 | DOT | true | 0x7083609fce4d1d8dc0c979aab8c869ea2c873402 | 200 | 400
-65 | CAKE | true | 0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82 | 100 | 400
-66 | BAKE | true | 0xe02df9e3e622debdd69fb838bb799e3f168902c5 | 200 | 400
-67 | BSCX | true | 0x5ac52ee5b2a633895292ff6d8a89bb9190451587 | 100 | 400
-68 | AUTO | true | 0xa184088a740c695e156f91f5cc086a06bb78b827 | 100 | 400
-69 | ADA | true | 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47 | 100 | 400
-70 | XLM | true | 0x2d0596a41b29463fc59491b24cb7e58dafeeabf6 | 100 | 400
-71 | DOGE | true | 0xba2ae424d960c26247dd6c32edc70b295c744c43 | 100 | 400
-72 | YFI | true | 0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e | 100 | 400
-73 | YFII | true | 0x7f70642d88cf1c4a3a7abb072b53b929b653eda5 | 100 | 400
-74 | REEF | true | 0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e | 100 | 400
-75 | BDO | true | 0x190b589cf9fb8ddeabbfeae36a813ffb2a702454 | 100 | 400
-76 | sBDO | true | 0x0d9319565be7f53cefe84ad201be3f40feae2740 | 100 | 400
-77 | UNI | true | 0xbf5140a22578168fd562dccf235e5d43a02ce9b1 | 100 | 400
-78 | CREAM | true | 0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888 | 100 | 400
-79 | BIFI | true | 0xca3f508b8e4dd382ee878a314789373d80a5190a | 100 | 400
-80 | COMP | true | 0x52ce071bd9b1c4b00a0b92d298c512478cad67e8 | 100 | 400
-81 | UNFI | true | 0x728c5bac3c3e370e372fc4671f9ef6916b814d8b | 100 | 400
-82 | ATOM | true | 0x0eb3a705fc54725037cc9e008bdede697f62f335 | 100 | 400
-83 | FRONT | true | 0x928e55dab735aa8260af3cedada18b5f70c72f1b | 100 | 400
-84 | DITTO | true | 0x233d91a0713155003fc4dce0afa871b508b3b715 | 100 | 400
-85 | EGLD | true | 0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe | 100 | 400
-86 | XRP | true | 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe | 100 | 400
-87 | BAND | true | 0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18 | 100 | 400
-88 | ACS | true | 0x4197c6ef3879a08cd51e5560da5064b773aa1d29 | 100 | 400
-89 | INJ | true | 0xa2b726b1145a4773f68593cf171187d8ebe4d495 | 100 | 400
-90 | EOS | true | 0x56b6fb708fc5732dec1afc8d8556423a2edccbd6 | 100 | 400
-91 | FIL | true | 0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153 | 100 | 400
-92 | FLP | true | 0x87ff96aba480f1813af5c780387d8de7cf7d8261 | 100 | 400
+46 | BUSD | true | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | 200 | 500
+47 | WBNB | true | 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c | 300 | 500
+48 | EGG | true | 0xf952fc3ca7325cc27d15885d37117676d25bfda6 | 300 | 500
+49 | VIKING | true | 0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0 | 300 | 500
+50 | SLIME | true | 0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1 | 200 | 500
+51 | USDT | true | 0x55d398326f99059ff775485246999027b3197955 | 100 | 500
+52 | BTCB | true | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | 200 | 500
+53 | ETH | true | 0x2170ed0880ac9a755fd29b2688956bd959f933f8 | 200 | 500
+54 | BCH | true | 0x8ff795a6f4d97e7887c79bea79aba5cc76444adf | 200 | 500
+55 | LTC | true | 0x4338665cbb7b2485a8855a139b75d5e34ab0db94 | 200 | 500
+56 | XTZ | true | 0x16939ef78684453bfdfb47825f8a5f714f12623a | 200 | 500
+57 | ONT | true | 0xfd7b3a77848f1c2d67e05e54d78d174a0c850335 | 200 | 500
+58 | BETH | true | 0x250632378e573c6be1ac2f97fcdf00515d0aa91b | 200 | 500
+59 | DAI | true | 0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3 | 100 | 500
+60 | USDC | true | 0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d | 100 | 500
+61 | VAI | true | 0x4bd17003473389a42daf6a0a729f6fdb328bbbd7 | 100 | 500
+62 | XVS | true | 0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63 | 200 | 500
+63 | LINK | true | 0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd | 200 | 500
+64 | DOT | true | 0x7083609fce4d1d8dc0c979aab8c869ea2c873402 | 200 | 500
+65 | CAKE | true | 0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82 | 100 | 500
+66 | BAKE | true | 0xe02df9e3e622debdd69fb838bb799e3f168902c5 | 200 | 500
+67 | BSCX | true | 0x5ac52ee5b2a633895292ff6d8a89bb9190451587 | 100 | 500
+68 | AUTO | true | 0xa184088a740c695e156f91f5cc086a06bb78b827 | 100 | 500
+69 | ADA | true | 0x3ee2200efb3400fabb9aacf31297cbdd1d435d47 | 100 | 500
+70 | XLM | true | 0x2d0596a41b29463fc59491b24cb7e58dafeeabf6 | 100 | 500
+71 | DOGE | true | 0xba2ae424d960c26247dd6c32edc70b295c744c43 | 100 | 500
+72 | YFI | true | 0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e | 100 | 500
+73 | YFII | true | 0x7f70642d88cf1c4a3a7abb072b53b929b653eda5 | 100 | 500
+74 | REEF | true | 0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e | 100 | 500
+75 | BDO | true | 0x190b589cf9fb8ddeabbfeae36a813ffb2a702454 | 100 | 500
+76 | sBDO | true | 0x0d9319565be7f53cefe84ad201be3f40feae2740 | 100 | 500
+77 | UNI | true | 0xbf5140a22578168fd562dccf235e5d43a02ce9b1 | 100 | 500
+78 | CREAM | true | 0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888 | 100 | 500
+79 | BIFI | true | 0xca3f508b8e4dd382ee878a314789373d80a5190a | 100 | 500
+80 | COMP | true | 0x52ce071bd9b1c4b00a0b92d298c512478cad67e8 | 100 | 500
+81 | UNFI | true | 0x728c5bac3c3e370e372fc4671f9ef6916b814d8b | 100 | 500
+82 | ATOM | true | 0x0eb3a705fc54725037cc9e008bdede697f62f335 | 100 | 500
+83 | FRONT | true | 0x928e55dab735aa8260af3cedada18b5f70c72f1b | 100 | 500
+84 | DITTO | true | 0x233d91a0713155003fc4dce0afa871b508b3b715 | 100 | 500
+85 | EGLD | true | 0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe | 100 | 500
+86 | XRP | true | 0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe | 100 | 500
+87 | BAND | true | 0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18 | 100 | 500
+88 | ACS | true | 0x4197c6ef3879a08cd51e5560da5064b773aa1d29 | 100 | 500
+89 | INJ | true | 0xa2b726b1145a4773f68593cf171187d8ebe4d495 | 100 | 500
+90 | EOS | true | 0x56b6fb708fc5732dec1afc8d8556423a2edccbd6 | 100 | 500
+91 | FIL | true | 0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153 | 100 | 500
+92 | FLP | true | 0x87ff96aba480f1813af5c780387d8de7cf7d8261 | 100 | 500
 
 ## Allocation
 BP | Multiplicator
@@ -121,280 +121,280 @@ process.stdout.write("checking pool existence: MEW-BUSD LP..."); if (await chef.
 await chef.add("MEW-BUSD LP", "4000", "0xd6c195cab85e59ace86d473e2e1072178a7559fc", "0", false); // MEW-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BNB-BUSD LP..."); if (await chef.poolExistence("0x1b96b92314c44b159149f7e0303511fb2fc4774f")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BNB-BUSD LP...");
-await chef.add("BNB-BUSD LP", "500", "0x1b96b92314c44b159149f7e0303511fb2fc4774f", "400", false); // BNB-BUSD LP
+await chef.add("BNB-BUSD LP", "500", "0x1b96b92314c44b159149f7e0303511fb2fc4774f", "500", false); // BNB-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: USDT-BUSD LP..."); if (await chef.poolExistence("0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: USDT-BUSD LP...");
-await chef.add("USDT-BUSD LP", "500", "0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd", "400", false); // USDT-BUSD LP
+await chef.add("USDT-BUSD LP", "500", "0xc15fa3e22c912a276550f3e5fe3b0deb87b55acd", "500", false); // USDT-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: EGG-BUSD LP..."); if (await chef.poolExistence("0x19e7cbecdd23a16dfa5573df54d98f7caae03019")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EGG-BUSD LP...");
-await chef.add("EGG-BUSD LP", "200", "0x19e7cbecdd23a16dfa5573df54d98f7caae03019", "400", false); // EGG-BUSD LP
+await chef.add("EGG-BUSD LP", "200", "0x19e7cbecdd23a16dfa5573df54d98f7caae03019", "500", false); // EGG-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: VIKING-BUSD LP..."); if (await chef.poolExistence("0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: VIKING-BUSD LP...");
-await chef.add("VIKING-BUSD LP", "200", "0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43", "400", false); // VIKING-BUSD LP
+await chef.add("VIKING-BUSD LP", "200", "0x9b989a7b8963f4b08ec094710e2966fb3c7f6c43", "500", false); // VIKING-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: SLIME-BUSD LP..."); if (await chef.poolExistence("0xfbd0b87f4132e5a14aa85c21476738c0c13fd06c")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: SLIME-BUSD LP...");
-await chef.add("SLIME-BUSD LP", "200", "0xfbd0b87f4132e5a14aa85c21476738c0c13fd06c", "400", false); // SLIME-BUSD LP
+await chef.add("SLIME-BUSD LP", "200", "0xfbd0b87f4132e5a14aa85c21476738c0c13fd06c", "500", false); // SLIME-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BTCB-BNB LP..."); if (await chef.poolExistence("0x7561eee90e24f3b348e1087a005f78b4c8453524")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BTCB-BNB LP...");
-await chef.add("BTCB-BNB LP", "600", "0x7561eee90e24f3b348e1087a005f78b4c8453524", "400", false); // BTCB-BNB LP
+await chef.add("BTCB-BNB LP", "600", "0x7561eee90e24f3b348e1087a005f78b4c8453524", "500", false); // BTCB-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: ETH-BNB LP..."); if (await chef.poolExistence("0x70d8929d04b60af4fb9b58713ebcf18765ade422")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ETH-BNB LP...");
-await chef.add("ETH-BNB LP", "600", "0x70d8929d04b60af4fb9b58713ebcf18765ade422", "400", false); // ETH-BNB LP
+await chef.add("ETH-BNB LP", "600", "0x70d8929d04b60af4fb9b58713ebcf18765ade422", "500", false); // ETH-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BCH-BNB LP..."); if (await chef.poolExistence("0x54edd846db17f43b6e43296134ecd96284671e81")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BCH-BNB LP...");
-await chef.add("BCH-BNB LP", "400", "0x54edd846db17f43b6e43296134ecd96284671e81", "400", false); // BCH-BNB LP
+await chef.add("BCH-BNB LP", "400", "0x54edd846db17f43b6e43296134ecd96284671e81", "500", false); // BCH-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: LTC-BNB LP..."); if (await chef.poolExistence("0xbc765fd113c5bdb2ebc25f711191b56bb8690aec")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: LTC-BNB LP...");
-await chef.add("LTC-BNB LP", "400", "0xbc765fd113c5bdb2ebc25f711191b56bb8690aec", "400", false); // LTC-BNB LP
+await chef.add("LTC-BNB LP", "400", "0xbc765fd113c5bdb2ebc25f711191b56bb8690aec", "500", false); // LTC-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: XTZ-BNB LP..."); if (await chef.poolExistence("0x5acac332f0f49c8badc7afd0134ad19d3db972e6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XTZ-BNB LP...");
-await chef.add("XTZ-BNB LP", "200", "0x5acac332f0f49c8badc7afd0134ad19d3db972e6", "400", false); // XTZ-BNB LP
+await chef.add("XTZ-BNB LP", "200", "0x5acac332f0f49c8badc7afd0134ad19d3db972e6", "500", false); // XTZ-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: ONT-BNB LP..."); if (await chef.poolExistence("0x8ea21d0119162808ebfce8dce4362a8361e8b8f3")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ONT-BNB LP...");
-await chef.add("ONT-BNB LP", "200", "0x8ea21d0119162808ebfce8dce4362a8361e8b8f3", "400", false); // ONT-BNB LP
+await chef.add("ONT-BNB LP", "200", "0x8ea21d0119162808ebfce8dce4362a8361e8b8f3", "500", false); // ONT-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BETH-BNB LP..."); if (await chef.poolExistence("0x81019ffd087a9c9e923ee15249c980d5726bc988")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BETH-BNB LP...");
-await chef.add("BETH-BNB LP", "600", "0x81019ffd087a9c9e923ee15249c980d5726bc988", "400", false); // BETH-BNB LP
+await chef.add("BETH-BNB LP", "600", "0x81019ffd087a9c9e923ee15249c980d5726bc988", "500", false); // BETH-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: DAI-BUSD LP..."); if (await chef.poolExistence("0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DAI-BUSD LP...");
-await chef.add("DAI-BUSD LP", "400", "0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc", "400", false); // DAI-BUSD LP
+await chef.add("DAI-BUSD LP", "400", "0x3ab77e40340ab084c3e23be8e5a6f7afed9d41dc", "500", false); // DAI-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: USDC-BUSD LP..."); if (await chef.poolExistence("0x680dd100e4b394bda26a59dd5c119a391e747d18")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: USDC-BUSD LP...");
-await chef.add("USDC-BUSD LP", "400", "0x680dd100e4b394bda26a59dd5c119a391e747d18", "400", false); // USDC-BUSD LP
+await chef.add("USDC-BUSD LP", "400", "0x680dd100e4b394bda26a59dd5c119a391e747d18", "500", false); // USDC-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: LINK-BNB LP..."); if (await chef.poolExistence("0xaebe45e3a03b734c68e5557ae04bfc76917b4686")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: LINK-BNB LP...");
-await chef.add("LINK-BNB LP", "600", "0xaebe45e3a03b734c68e5557ae04bfc76917b4686", "400", false); // LINK-BNB LP
+await chef.add("LINK-BNB LP", "600", "0xaebe45e3a03b734c68e5557ae04bfc76917b4686", "500", false); // LINK-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: DOT-BNB LP..."); if (await chef.poolExistence("0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DOT-BNB LP...");
-await chef.add("DOT-BNB LP", "600", "0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c", "400", false); // DOT-BNB LP
+await chef.add("DOT-BNB LP", "600", "0xbcd62661a6b1ded703585d3af7d7649ef4dcdb5c", "500", false); // DOT-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: CAKE-BUSD LP..."); if (await chef.poolExistence("0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: CAKE-BUSD LP...");
-await chef.add("CAKE-BUSD LP", "200", "0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458", "400", false); // CAKE-BUSD LP
+await chef.add("CAKE-BUSD LP", "200", "0x0ed8e0a2d99643e1e65cca22ed4424090b8b7458", "500", false); // CAKE-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: CAKE-BNB LP..."); if (await chef.poolExistence("0xa527a61703d82139f8a06bc30097cc9caa2df5a6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: CAKE-BNB LP...");
-await chef.add("CAKE-BNB LP", "200", "0xa527a61703d82139f8a06bc30097cc9caa2df5a6", "400", false); // CAKE-BNB LP
+await chef.add("CAKE-BNB LP", "200", "0xa527a61703d82139f8a06bc30097cc9caa2df5a6", "500", false); // CAKE-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BAKE-BNB LP..."); if (await chef.poolExistence("0x3da30727ed0626b78c212e81b37b97a8ef8a25bb")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BAKE-BNB LP...");
-await chef.add("BAKE-BNB LP", "200", "0x3da30727ed0626b78c212e81b37b97a8ef8a25bb", "400", false); // BAKE-BNB LP
+await chef.add("BAKE-BNB LP", "200", "0x3da30727ed0626b78c212e81b37b97a8ef8a25bb", "500", false); // BAKE-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: AUTO-BNB LP..."); if (await chef.poolExistence("0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: AUTO-BNB LP...");
-await chef.add("AUTO-BNB LP", "200", "0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56", "400", false); // AUTO-BNB LP
+await chef.add("AUTO-BNB LP", "200", "0x4d0228ebeb39f6d2f29ba528e2d15fc9121ead56", "500", false); // AUTO-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: ADA-BNB LP..."); if (await chef.poolExistence("0xba51d1ab95756ca4eab8737ecd450cd8f05384cf")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ADA-BNB LP...");
-await chef.add("ADA-BNB LP", "200", "0xba51d1ab95756ca4eab8737ecd450cd8f05384cf", "400", false); // ADA-BNB LP
+await chef.add("ADA-BNB LP", "200", "0xba51d1ab95756ca4eab8737ecd450cd8f05384cf", "500", false); // ADA-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: XLM-BNB LP..."); if (await chef.poolExistence("0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XLM-BNB LP...");
-await chef.add("XLM-BNB LP", "200", "0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb", "400", false); // XLM-BNB LP
+await chef.add("XLM-BNB LP", "200", "0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb", "500", false); // XLM-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: DOGE-BUSD LP..."); if (await chef.poolExistence("0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DOGE-BUSD LP...");
-await chef.add("DOGE-BUSD LP", "200", "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3", "400", false); // DOGE-BUSD LP
+await chef.add("DOGE-BUSD LP", "200", "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3", "500", false); // DOGE-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: DODO-BUSD LP..."); if (await chef.poolExistence("0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DODO-BUSD LP...");
-await chef.add("DODO-BUSD LP", "200", "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3", "400", false); // DODO-BUSD LP
+await chef.add("DODO-BUSD LP", "200", "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3", "500", false); // DODO-BUSD LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: YFI-BNB LP..."); if (await chef.poolExistence("0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: YFI-BNB LP...");
-await chef.add("YFI-BNB LP", "200", "0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1", "400", false); // YFI-BNB LP
+await chef.add("YFI-BNB LP", "200", "0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1", "500", false); // YFI-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: YFII-BNB LP..."); if (await chef.poolExistence("0x574a978c2d0d36d707a05e459466c7a1054f1210")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: YFII-BNB LP...");
-await chef.add("YFII-BNB LP", "200", "0x574a978c2d0d36d707a05e459466c7a1054f1210", "400", false); // YFII-BNB LP
+await chef.add("YFII-BNB LP", "200", "0x574a978c2d0d36d707a05e459466c7a1054f1210", "500", false); // YFII-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: REEF-BNB LP..."); if (await chef.poolExistence("0x58b58cab6c5cf158f63a2390b817710826d116d0")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: REEF-BNB LP...");
-await chef.add("REEF-BNB LP", "200", "0x58b58cab6c5cf158f63a2390b817710826d116d0", "400", false); // REEF-BNB LP
+await chef.add("REEF-BNB LP", "200", "0x58b58cab6c5cf158f63a2390b817710826d116d0", "500", false); // REEF-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BDO-BNB LP..."); if (await chef.poolExistence("0x74690f829fec83ea424ee1f1654041b2491a7be9")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BDO-BNB LP...");
-await chef.add("BDO-BNB LP", "200", "0x74690f829fec83ea424ee1f1654041b2491a7be9", "400", false); // BDO-BNB LP
+await chef.add("BDO-BNB LP", "200", "0x74690f829fec83ea424ee1f1654041b2491a7be9", "500", false); // BDO-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: sBDO-BNB LP..."); if (await chef.poolExistence("0xa0718093baa3e7aae054eed71f303a4ebc1c076f")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: sBDO-BNB LP...");
-await chef.add("sBDO-BNB LP", "200", "0xa0718093baa3e7aae054eed71f303a4ebc1c076f", "400", false); // sBDO-BNB LP
+await chef.add("sBDO-BNB LP", "200", "0xa0718093baa3e7aae054eed71f303a4ebc1c076f", "500", false); // sBDO-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: UNI-BNB LP..."); if (await chef.poolExistence("0x4269e7f43a63cea1ad7707be565a94a9189967e9")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: UNI-BNB LP...");
-await chef.add("UNI-BNB LP", "200", "0x4269e7f43a63cea1ad7707be565a94a9189967e9", "400", false); // UNI-BNB LP
+await chef.add("UNI-BNB LP", "200", "0x4269e7f43a63cea1ad7707be565a94a9189967e9", "500", false); // UNI-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: CREAM-BNB LP..."); if (await chef.poolExistence("0xf651951d82488167741854f0d364c13440c566e3")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: CREAM-BNB LP...");
-await chef.add("CREAM-BNB LP", "200", "0xf651951d82488167741854f0d364c13440c566e3", "400", false); // CREAM-BNB LP
+await chef.add("CREAM-BNB LP", "200", "0xf651951d82488167741854f0d364c13440c566e3", "500", false); // CREAM-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BIFI-BNB LP..."); if (await chef.poolExistence("0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BIFI-BNB LP...");
-await chef.add("BIFI-BNB LP", "200", "0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd", "400", false); // BIFI-BNB LP
+await chef.add("BIFI-BNB LP", "200", "0xd132d2c24f29ee8abb64a66559d1b7aa627bd7fd", "500", false); // BIFI-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: COMP-BNB LP..."); if (await chef.poolExistence("0x6398f936b423adaad3a58b2eb3683f826c717bd8")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: COMP-BNB LP...");
-await chef.add("COMP-BNB LP", "200", "0x6398f936b423adaad3a58b2eb3683f826c717bd8", "400", false); // COMP-BNB LP
+await chef.add("COMP-BNB LP", "200", "0x6398f936b423adaad3a58b2eb3683f826c717bd8", "500", false); // COMP-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: UNFI-BNB LP..."); if (await chef.poolExistence("0xbea35584b9a88107102abef0bdee2c4fae5d8c31")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: UNFI-BNB LP...");
-await chef.add("UNFI-BNB LP", "200", "0xbea35584b9a88107102abef0bdee2c4fae5d8c31", "400", false); // UNFI-BNB LP
+await chef.add("UNFI-BNB LP", "200", "0xbea35584b9a88107102abef0bdee2c4fae5d8c31", "500", false); // UNFI-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: ATOM-BNB LP..."); if (await chef.poolExistence("0x2333c77fc0b2875c11409cdcd3c75d42d402e834")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ATOM-BNB LP...");
-await chef.add("ATOM-BNB LP", "200", "0x2333c77fc0b2875c11409cdcd3c75d42d402e834", "400", false); // ATOM-BNB LP
+await chef.add("ATOM-BNB LP", "200", "0x2333c77fc0b2875c11409cdcd3c75d42d402e834", "500", false); // ATOM-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: FRONT-BNB LP..."); if (await chef.poolExistence("0x36b7d2e5c7877392fb17f9219efad56f3d794700")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FRONT-BNB LP...");
-await chef.add("FRONT-BNB LP", "200", "0x36b7d2e5c7877392fb17f9219efad56f3d794700", "400", false); // FRONT-BNB LP
+await chef.add("FRONT-BNB LP", "200", "0x36b7d2e5c7877392fb17f9219efad56f3d794700", "500", false); // FRONT-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: EGLD-BNB LP..."); if (await chef.poolExistence("0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EGLD-BNB LP...");
-await chef.add("EGLD-BNB LP", "200", "0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716", "400", false); // EGLD-BNB LP
+await chef.add("EGLD-BNB LP", "200", "0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716", "500", false); // EGLD-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: XRP-BNB LP..."); if (await chef.poolExistence("0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XRP-BNB LP...");
-await chef.add("XRP-BNB LP", "200", "0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2", "400", false); // XRP-BNB LP
+await chef.add("XRP-BNB LP", "200", "0xc7b4b32a3be2cb6572a1c9959401f832ce47a6d2", "500", false); // XRP-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BAND-BNB LP..."); if (await chef.poolExistence("0xc639187ef82271d8f517de6feae4faf5b517533c")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BAND-BNB LP...");
-await chef.add("BAND-BNB LP", "200", "0xc639187ef82271d8f517de6feae4faf5b517533c", "400", false); // BAND-BNB LP
+await chef.add("BAND-BNB LP", "200", "0xc639187ef82271d8f517de6feae4faf5b517533c", "500", false); // BAND-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: ACS-BNB LP..."); if (await chef.poolExistence("0x2366ec9ddd1eb27506fa2ed48da8f2d9e99ed3c7")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ACS-BNB LP...");
-await chef.add("ACS-BNB LP", "200", "0x2366ec9ddd1eb27506fa2ed48da8f2d9e99ed3c7", "400", false); // ACS-BNB LP
+await chef.add("ACS-BNB LP", "200", "0x2366ec9ddd1eb27506fa2ed48da8f2d9e99ed3c7", "500", false); // ACS-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: INJ-BNB LP..."); if (await chef.poolExistence("0x7a34bd64d18e44cfde3ef4b81b87baf3eb3315b6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: INJ-BNB LP...");
-await chef.add("INJ-BNB LP", "200", "0x7a34bd64d18e44cfde3ef4b81b87baf3eb3315b6", "400", false); // INJ-BNB LP
+await chef.add("INJ-BNB LP", "200", "0x7a34bd64d18e44cfde3ef4b81b87baf3eb3315b6", "500", false); // INJ-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: EOS-BNB LP..."); if (await chef.poolExistence("0x981d2ba1b298888408d342c39c2ab92e8991691e")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EOS-BNB LP...");
-await chef.add("EOS-BNB LP", "200", "0x981d2ba1b298888408d342c39c2ab92e8991691e", "400", false); // EOS-BNB LP
+await chef.add("EOS-BNB LP", "200", "0x981d2ba1b298888408d342c39c2ab92e8991691e", "500", false); // EOS-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: FIL-BNB LP..."); if (await chef.poolExistence("0x35fe9787f0ebf2a200bac413d3030cf62d312774")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FIL-BNB LP...");
-await chef.add("FIL-BNB LP", "200", "0x35fe9787f0ebf2a200bac413d3030cf62d312774", "400", false); // FIL-BNB LP
+await chef.add("FIL-BNB LP", "200", "0x35fe9787f0ebf2a200bac413d3030cf62d312774", "500", false); // FIL-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: FLP-BNB LP..."); if (await chef.poolExistence("0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FLP-BNB LP...");
-await chef.add("FLP-BNB LP", "200", "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d", "400", false); // FLP-BNB LP
+await chef.add("FLP-BNB LP", "200", "0x07aaf8ae5c4511a9b512ea54e95a60298abc1b4d", "500", false); // FLP-BNB LP
 console.log(" done"); }
 process.stdout.write("checking pool existence: MEW..."); if (await chef.poolExistence("0x83a0a1aebc347e36e45df6b83aaf85419bcf9411")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: MEW...");
 await chef.add("MEW", "1000", "0x83a0a1aebc347e36e45df6b83aaf85419bcf9411", "0", false); // MEW
 console.log(" done"); }
 process.stdout.write("checking pool existence: BUSD..."); if (await chef.poolExistence("0xe9e7cea3dedca5984780bafc599bd69add087d56")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BUSD...");
-await chef.add("BUSD", "200", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "400", false); // BUSD
+await chef.add("BUSD", "200", "0xe9e7cea3dedca5984780bafc599bd69add087d56", "500", false); // BUSD
 console.log(" done"); }
 process.stdout.write("checking pool existence: WBNB..."); if (await chef.poolExistence("0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: WBNB...");
-await chef.add("WBNB", "300", "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c", "400", false); // WBNB
+await chef.add("WBNB", "300", "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c", "500", false); // WBNB
 console.log(" done"); }
 process.stdout.write("checking pool existence: EGG..."); if (await chef.poolExistence("0xf952fc3ca7325cc27d15885d37117676d25bfda6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EGG...");
-await chef.add("EGG", "300", "0xf952fc3ca7325cc27d15885d37117676d25bfda6", "400", false); // EGG
+await chef.add("EGG", "300", "0xf952fc3ca7325cc27d15885d37117676d25bfda6", "500", false); // EGG
 console.log(" done"); }
 process.stdout.write("checking pool existence: VIKING..."); if (await chef.poolExistence("0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: VIKING...");
-await chef.add("VIKING", "300", "0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0", "400", false); // VIKING
+await chef.add("VIKING", "300", "0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0", "500", false); // VIKING
 console.log(" done"); }
 process.stdout.write("checking pool existence: SLIME..."); if (await chef.poolExistence("0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: SLIME...");
-await chef.add("SLIME", "200", "0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1", "400", false); // SLIME
+await chef.add("SLIME", "200", "0x4fcfa6cc8914ab455b5b33df916d90bfe70b6ab1", "500", false); // SLIME
 console.log(" done"); }
 process.stdout.write("checking pool existence: USDT..."); if (await chef.poolExistence("0x55d398326f99059ff775485246999027b3197955")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: USDT...");
-await chef.add("USDT", "100", "0x55d398326f99059ff775485246999027b3197955", "400", false); // USDT
+await chef.add("USDT", "100", "0x55d398326f99059ff775485246999027b3197955", "500", false); // USDT
 console.log(" done"); }
 process.stdout.write("checking pool existence: BTCB..."); if (await chef.poolExistence("0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BTCB...");
-await chef.add("BTCB", "200", "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c", "400", false); // BTCB
+await chef.add("BTCB", "200", "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c", "500", false); // BTCB
 console.log(" done"); }
 process.stdout.write("checking pool existence: ETH..."); if (await chef.poolExistence("0x2170ed0880ac9a755fd29b2688956bd959f933f8")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ETH...");
-await chef.add("ETH", "200", "0x2170ed0880ac9a755fd29b2688956bd959f933f8", "400", false); // ETH
+await chef.add("ETH", "200", "0x2170ed0880ac9a755fd29b2688956bd959f933f8", "500", false); // ETH
 console.log(" done"); }
 process.stdout.write("checking pool existence: BCH..."); if (await chef.poolExistence("0x8ff795a6f4d97e7887c79bea79aba5cc76444adf")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BCH...");
-await chef.add("BCH", "200", "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf", "400", false); // BCH
+await chef.add("BCH", "200", "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf", "500", false); // BCH
 console.log(" done"); }
 process.stdout.write("checking pool existence: LTC..."); if (await chef.poolExistence("0x4338665cbb7b2485a8855a139b75d5e34ab0db94")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: LTC...");
-await chef.add("LTC", "200", "0x4338665cbb7b2485a8855a139b75d5e34ab0db94", "400", false); // LTC
+await chef.add("LTC", "200", "0x4338665cbb7b2485a8855a139b75d5e34ab0db94", "500", false); // LTC
 console.log(" done"); }
 process.stdout.write("checking pool existence: XTZ..."); if (await chef.poolExistence("0x16939ef78684453bfdfb47825f8a5f714f12623a")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XTZ...");
-await chef.add("XTZ", "200", "0x16939ef78684453bfdfb47825f8a5f714f12623a", "400", false); // XTZ
+await chef.add("XTZ", "200", "0x16939ef78684453bfdfb47825f8a5f714f12623a", "500", false); // XTZ
 console.log(" done"); }
 process.stdout.write("checking pool existence: ONT..."); if (await chef.poolExistence("0xfd7b3a77848f1c2d67e05e54d78d174a0c850335")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ONT...");
-await chef.add("ONT", "200", "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335", "400", false); // ONT
+await chef.add("ONT", "200", "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335", "500", false); // ONT
 console.log(" done"); }
 process.stdout.write("checking pool existence: BETH..."); if (await chef.poolExistence("0x250632378e573c6be1ac2f97fcdf00515d0aa91b")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BETH...");
-await chef.add("BETH", "200", "0x250632378e573c6be1ac2f97fcdf00515d0aa91b", "400", false); // BETH
+await chef.add("BETH", "200", "0x250632378e573c6be1ac2f97fcdf00515d0aa91b", "500", false); // BETH
 console.log(" done"); }
 process.stdout.write("checking pool existence: DAI..."); if (await chef.poolExistence("0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DAI...");
-await chef.add("DAI", "100", "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3", "400", false); // DAI
+await chef.add("DAI", "100", "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3", "500", false); // DAI
 console.log(" done"); }
 process.stdout.write("checking pool existence: USDC..."); if (await chef.poolExistence("0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: USDC...");
-await chef.add("USDC", "100", "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d", "400", false); // USDC
+await chef.add("USDC", "100", "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d", "500", false); // USDC
 console.log(" done"); }
 process.stdout.write("checking pool existence: VAI..."); if (await chef.poolExistence("0x4bd17003473389a42daf6a0a729f6fdb328bbbd7")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: VAI...");
-await chef.add("VAI", "100", "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7", "400", false); // VAI
+await chef.add("VAI", "100", "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7", "500", false); // VAI
 console.log(" done"); }
 process.stdout.write("checking pool existence: XVS..."); if (await chef.poolExistence("0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XVS...");
-await chef.add("XVS", "200", "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63", "400", false); // XVS
+await chef.add("XVS", "200", "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63", "500", false); // XVS
 console.log(" done"); }
 process.stdout.write("checking pool existence: LINK..."); if (await chef.poolExistence("0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: LINK...");
-await chef.add("LINK", "200", "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd", "400", false); // LINK
+await chef.add("LINK", "200", "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd", "500", false); // LINK
 console.log(" done"); }
 process.stdout.write("checking pool existence: DOT..."); if (await chef.poolExistence("0x7083609fce4d1d8dc0c979aab8c869ea2c873402")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DOT...");
-await chef.add("DOT", "200", "0x7083609fce4d1d8dc0c979aab8c869ea2c873402", "400", false); // DOT
+await chef.add("DOT", "200", "0x7083609fce4d1d8dc0c979aab8c869ea2c873402", "500", false); // DOT
 console.log(" done"); }
 process.stdout.write("checking pool existence: CAKE..."); if (await chef.poolExistence("0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: CAKE...");
-await chef.add("CAKE", "100", "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", "400", false); // CAKE
+await chef.add("CAKE", "100", "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82", "500", false); // CAKE
 console.log(" done"); }
 process.stdout.write("checking pool existence: BAKE..."); if (await chef.poolExistence("0xe02df9e3e622debdd69fb838bb799e3f168902c5")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BAKE...");
-await chef.add("BAKE", "200", "0xe02df9e3e622debdd69fb838bb799e3f168902c5", "400", false); // BAKE
+await chef.add("BAKE", "200", "0xe02df9e3e622debdd69fb838bb799e3f168902c5", "500", false); // BAKE
 console.log(" done"); }
 process.stdout.write("checking pool existence: BSCX..."); if (await chef.poolExistence("0x5ac52ee5b2a633895292ff6d8a89bb9190451587")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BSCX...");
-await chef.add("BSCX", "100", "0x5ac52ee5b2a633895292ff6d8a89bb9190451587", "400", false); // BSCX
+await chef.add("BSCX", "100", "0x5ac52ee5b2a633895292ff6d8a89bb9190451587", "500", false); // BSCX
 console.log(" done"); }
 process.stdout.write("checking pool existence: AUTO..."); if (await chef.poolExistence("0xa184088a740c695e156f91f5cc086a06bb78b827")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: AUTO...");
-await chef.add("AUTO", "100", "0xa184088a740c695e156f91f5cc086a06bb78b827", "400", false); // AUTO
+await chef.add("AUTO", "100", "0xa184088a740c695e156f91f5cc086a06bb78b827", "500", false); // AUTO
 console.log(" done"); }
 process.stdout.write("checking pool existence: ADA..."); if (await chef.poolExistence("0x3ee2200efb3400fabb9aacf31297cbdd1d435d47")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ADA...");
-await chef.add("ADA", "100", "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47", "400", false); // ADA
+await chef.add("ADA", "100", "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47", "500", false); // ADA
 console.log(" done"); }
 process.stdout.write("checking pool existence: XLM..."); if (await chef.poolExistence("0x2d0596a41b29463fc59491b24cb7e58dafeeabf6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XLM...");
-await chef.add("XLM", "100", "0x2d0596a41b29463fc59491b24cb7e58dafeeabf6", "400", false); // XLM
+await chef.add("XLM", "100", "0x2d0596a41b29463fc59491b24cb7e58dafeeabf6", "500", false); // XLM
 console.log(" done"); }
 process.stdout.write("checking pool existence: DOGE..."); if (await chef.poolExistence("0xba2ae424d960c26247dd6c32edc70b295c744c43")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DOGE...");
-await chef.add("DOGE", "100", "0xba2ae424d960c26247dd6c32edc70b295c744c43", "400", false); // DOGE
+await chef.add("DOGE", "100", "0xba2ae424d960c26247dd6c32edc70b295c744c43", "500", false); // DOGE
 console.log(" done"); }
 process.stdout.write("checking pool existence: YFI..."); if (await chef.poolExistence("0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: YFI...");
-await chef.add("YFI", "100", "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e", "400", false); // YFI
+await chef.add("YFI", "100", "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e", "500", false); // YFI
 console.log(" done"); }
 process.stdout.write("checking pool existence: YFII..."); if (await chef.poolExistence("0x7f70642d88cf1c4a3a7abb072b53b929b653eda5")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: YFII...");
-await chef.add("YFII", "100", "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5", "400", false); // YFII
+await chef.add("YFII", "100", "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5", "500", false); // YFII
 console.log(" done"); }
 process.stdout.write("checking pool existence: REEF..."); if (await chef.poolExistence("0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: REEF...");
-await chef.add("REEF", "100", "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e", "400", false); // REEF
+await chef.add("REEF", "100", "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e", "500", false); // REEF
 console.log(" done"); }
 process.stdout.write("checking pool existence: BDO..."); if (await chef.poolExistence("0x190b589cf9fb8ddeabbfeae36a813ffb2a702454")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BDO...");
-await chef.add("BDO", "100", "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454", "400", false); // BDO
+await chef.add("BDO", "100", "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454", "500", false); // BDO
 console.log(" done"); }
 process.stdout.write("checking pool existence: sBDO..."); if (await chef.poolExistence("0x0d9319565be7f53cefe84ad201be3f40feae2740")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: sBDO...");
-await chef.add("sBDO", "100", "0x0d9319565be7f53cefe84ad201be3f40feae2740", "400", false); // sBDO
+await chef.add("sBDO", "100", "0x0d9319565be7f53cefe84ad201be3f40feae2740", "500", false); // sBDO
 console.log(" done"); }
 process.stdout.write("checking pool existence: UNI..."); if (await chef.poolExistence("0xbf5140a22578168fd562dccf235e5d43a02ce9b1")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: UNI...");
-await chef.add("UNI", "100", "0xbf5140a22578168fd562dccf235e5d43a02ce9b1", "400", false); // UNI
+await chef.add("UNI", "100", "0xbf5140a22578168fd562dccf235e5d43a02ce9b1", "500", false); // UNI
 console.log(" done"); }
 process.stdout.write("checking pool existence: CREAM..."); if (await chef.poolExistence("0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: CREAM...");
-await chef.add("CREAM", "100", "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888", "400", false); // CREAM
+await chef.add("CREAM", "100", "0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888", "500", false); // CREAM
 console.log(" done"); }
 process.stdout.write("checking pool existence: BIFI..."); if (await chef.poolExistence("0xca3f508b8e4dd382ee878a314789373d80a5190a")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BIFI...");
-await chef.add("BIFI", "100", "0xca3f508b8e4dd382ee878a314789373d80a5190a", "400", false); // BIFI
+await chef.add("BIFI", "100", "0xca3f508b8e4dd382ee878a314789373d80a5190a", "500", false); // BIFI
 console.log(" done"); }
 process.stdout.write("checking pool existence: COMP..."); if (await chef.poolExistence("0x52ce071bd9b1c4b00a0b92d298c512478cad67e8")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: COMP...");
-await chef.add("COMP", "100", "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8", "400", false); // COMP
+await chef.add("COMP", "100", "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8", "500", false); // COMP
 console.log(" done"); }
 process.stdout.write("checking pool existence: UNFI..."); if (await chef.poolExistence("0x728c5bac3c3e370e372fc4671f9ef6916b814d8b")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: UNFI...");
-await chef.add("UNFI", "100", "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b", "400", false); // UNFI
+await chef.add("UNFI", "100", "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b", "500", false); // UNFI
 console.log(" done"); }
 process.stdout.write("checking pool existence: ATOM..."); if (await chef.poolExistence("0x0eb3a705fc54725037cc9e008bdede697f62f335")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ATOM...");
-await chef.add("ATOM", "100", "0x0eb3a705fc54725037cc9e008bdede697f62f335", "400", false); // ATOM
+await chef.add("ATOM", "100", "0x0eb3a705fc54725037cc9e008bdede697f62f335", "500", false); // ATOM
 console.log(" done"); }
 process.stdout.write("checking pool existence: FRONT..."); if (await chef.poolExistence("0x928e55dab735aa8260af3cedada18b5f70c72f1b")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FRONT...");
-await chef.add("FRONT", "100", "0x928e55dab735aa8260af3cedada18b5f70c72f1b", "400", false); // FRONT
+await chef.add("FRONT", "100", "0x928e55dab735aa8260af3cedada18b5f70c72f1b", "500", false); // FRONT
 console.log(" done"); }
 process.stdout.write("checking pool existence: DITTO..."); if (await chef.poolExistence("0x233d91a0713155003fc4dce0afa871b508b3b715")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: DITTO...");
-await chef.add("DITTO", "100", "0x233d91a0713155003fc4dce0afa871b508b3b715", "400", false); // DITTO
+await chef.add("DITTO", "100", "0x233d91a0713155003fc4dce0afa871b508b3b715", "500", false); // DITTO
 console.log(" done"); }
 process.stdout.write("checking pool existence: EGLD..."); if (await chef.poolExistence("0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EGLD...");
-await chef.add("EGLD", "100", "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe", "400", false); // EGLD
+await chef.add("EGLD", "100", "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe", "500", false); // EGLD
 console.log(" done"); }
 process.stdout.write("checking pool existence: XRP..."); if (await chef.poolExistence("0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: XRP...");
-await chef.add("XRP", "100", "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe", "400", false); // XRP
+await chef.add("XRP", "100", "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe", "500", false); // XRP
 console.log(" done"); }
 process.stdout.write("checking pool existence: BAND..."); if (await chef.poolExistence("0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: BAND...");
-await chef.add("BAND", "100", "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18", "400", false); // BAND
+await chef.add("BAND", "100", "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18", "500", false); // BAND
 console.log(" done"); }
 process.stdout.write("checking pool existence: ACS..."); if (await chef.poolExistence("0x4197c6ef3879a08cd51e5560da5064b773aa1d29")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: ACS...");
-await chef.add("ACS", "100", "0x4197c6ef3879a08cd51e5560da5064b773aa1d29", "400", false); // ACS
+await chef.add("ACS", "100", "0x4197c6ef3879a08cd51e5560da5064b773aa1d29", "500", false); // ACS
 console.log(" done"); }
 process.stdout.write("checking pool existence: INJ..."); if (await chef.poolExistence("0xa2b726b1145a4773f68593cf171187d8ebe4d495")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: INJ...");
-await chef.add("INJ", "100", "0xa2b726b1145a4773f68593cf171187d8ebe4d495", "400", false); // INJ
+await chef.add("INJ", "100", "0xa2b726b1145a4773f68593cf171187d8ebe4d495", "500", false); // INJ
 console.log(" done"); }
 process.stdout.write("checking pool existence: EOS..."); if (await chef.poolExistence("0x56b6fb708fc5732dec1afc8d8556423a2edccbd6")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: EOS...");
-await chef.add("EOS", "100", "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6", "400", false); // EOS
+await chef.add("EOS", "100", "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6", "500", false); // EOS
 console.log(" done"); }
 process.stdout.write("checking pool existence: FIL..."); if (await chef.poolExistence("0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FIL...");
-await chef.add("FIL", "100", "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153", "400", false); // FIL
+await chef.add("FIL", "100", "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153", "500", false); // FIL
 console.log(" done"); }
 process.stdout.write("checking pool existence: FLP..."); if (await chef.poolExistence("0x87ff96aba480f1813af5c780387d8de7cf7d8261")) { console.log(" pool already exists. skipping"); } else { console.log(" pool doesn't exist"); process.stdout.write("adding pool: FLP...");
-await chef.add("FLP", "100", "0x87ff96aba480f1813af5c780387d8de7cf7d8261", "400", false); // FLP
+await chef.add("FLP", "100", "0x87ff96aba480f1813af5c780387d8de7cf7d8261", "500", false); // FLP
 console.log(" done"); }
 console.log("done.");
 }
