@@ -537,7 +537,7 @@ const farms: FarmConfig[] = [
 { pid: 44, risk: 3, isTokenOnly: true, lpSymbol: "MEW", lpAddresses: { 97: "", 56: "0xca2aeb3d75e899e3e5d76509272d71042ada8812", // MEW
 }, tokenSymbol: "EGG", tokenAddresses: { 97: "", 56: "0x9b5716bc0c5853ea54bbfc9d7e2f6d6ffc123fcf", // EGG
 }, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, },
-{ pid: 45, risk: 3, isTokenOnly: true, lpSymbol: "BUSD", lpAddresses: { 97: "", 56: "0x45b604027262cca499519ef66ed768c43211e0cf", // BUSD
+{ pid: 45, risk: 3, isTokenOnly: true, lpSymbol: "BUSD", lpAddresses: { 97: "", 56: "0xca2aeb3d75e899e3e5d76509272d71042ada8812", // BUSD
 }, tokenSymbol: "BUSD", tokenAddresses: { 97: "", 56: "0xe9e7cea3dedca5984780bafc599bd69add087d56", // BUSD
 }, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, },
 { pid: 46, risk: 3, isTokenOnly: true, lpSymbol: "WBNB", lpAddresses: { 97: "", 56: "0x1b96b92314c44b159149f7e0303511fb2fc4774f", // WBNB
@@ -590,7 +590,7 @@ const farms: FarmConfig[] = [
 }, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
 { pid: 62, risk: 3, isTokenOnly: true, lpSymbol: "LINK", lpAddresses: { 97: "", 56: "0xaebe45e3a03b734c68e5557ae04bfc76917b4686", // LINK
 }, tokenSymbol: "LINK", tokenAddresses: { 97: "", 56: "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd", // LINK
-}, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, },
+}, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
 { pid: 63, risk: 3, isTokenOnly: true, lpSymbol: "DOT", lpAddresses: { 97: "", 56: "0x54c1ec2f543966953f2f7564692606ea7d5a184e", // DOT
 }, tokenSymbol: "DOT", tokenAddresses: { 97: "", 56: "0x7083609fce4d1d8dc0c979aab8c869ea2c873402", // DOT
 }, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, },
@@ -612,9 +612,9 @@ const farms: FarmConfig[] = [
 { pid: 69, risk: 3, isTokenOnly: true, lpSymbol: "XLM", lpAddresses: { 97: "", 56: "0x116a27c1cc353a5b839fe734c5e58a40e4a1edbb", // XLM
 }, tokenSymbol: "XLM", tokenAddresses: { 97: "", 56: "0x2d0596a41b29463fc59491b24cb7e58dafeeabf6", // XLM
 }, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
-{ pid: 70, risk: 3, isTokenOnly: true, lpSymbol: "DOGE", lpAddresses: { 97: "", 56: "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3", // DOGE
+/* { pid: 70, risk: 3, isTokenOnly: true, lpSymbol: "DOGE", lpAddresses: { 97: "", 56: "0x4adb22473e8dbf5efd0bf554ae35d7f3c5178fc5", // DOGE
 }, tokenSymbol: "DOGE", tokenAddresses: { 97: "", 56: "0xba2ae424d960c26247dd6c32edc70b295c744c43", // DOGE
-}, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, },
+}, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, }, */
 { pid: 71, risk: 3, isTokenOnly: true, lpSymbol: "YFI", lpAddresses: { 97: "", 56: "0x68ff2ca47d27db5ac0b5c46587645835dd51d3c1", // YFI
 }, tokenSymbol: "YFI", tokenAddresses: { 97: "", 56: "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e", // YFI
 }, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
@@ -651,9 +651,9 @@ const farms: FarmConfig[] = [
 { pid: 82, risk: 3, isTokenOnly: true, lpSymbol: "FRONT", lpAddresses: { 97: "", 56: "0x36b7d2e5c7877392fb17f9219efad56f3d794700", // FRONT
 }, tokenSymbol: "FRONT", tokenAddresses: { 97: "", 56: "0x928e55dab735aa8260af3cedada18b5f70c72f1b", // FRONT
 }, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
-{ pid: 83, risk: 3, isTokenOnly: true, lpSymbol: "DITTO", lpAddresses: { 97: "", 56: "0x470bc451810b312bbb1256f96b0895d95ea659b1", // DITTO
+/* { pid: 83, risk: 3, isTokenOnly: true, lpSymbol: "DITTO", lpAddresses: { 97: "", 56: "0x406a30cbeb5d52182bb320e268ad6250b24ff29d", // DITTO
 }, tokenSymbol: "DITTO", tokenAddresses: { 97: "", 56: "0x233d91a0713155003fc4dce0afa871b508b3b715", // DITTO
-}, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
+}, quoteTokenSymbol: QuoteToken.BUSD, quoteTokenAdresses: contracts.busd, }, */
 { pid: 84, risk: 3, isTokenOnly: true, lpSymbol: "EGLD", lpAddresses: { 97: "", 56: "0x3ef4952c7a9afbe374ea02d1bf5ed5a0015b7716", // EGLD
 }, tokenSymbol: "EGLD", tokenAddresses: { 97: "", 56: "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe", // EGLD
 }, quoteTokenSymbol: QuoteToken.BNB, quoteTokenAdresses: contracts.wbnb, },
