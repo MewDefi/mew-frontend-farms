@@ -219,6 +219,11 @@
     "name": "poolInfo",
     "outputs": [
       {
+        "internalType": "string",
+        "name": "name",
+        "type": "string"
+      },
+      {
         "internalType": "contract IBEP20",
         "name": "lpToken",
         "type": "address"

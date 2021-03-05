@@ -51,11 +51,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x83a0a1aebc347e36e45df6b83aaf85419bcf9411',
+        href: 'https://pancakeswap.info/token/0x9b5716Bc0c5853EA54BbFC9d7e2f6d6Ffc123FCF',
       },
       {
         label: 'BscScan',
-        href: 'https://bscscan.com/address/0x83a0a1aebc347e36e45df6b83aaf85419bcf9411',
+        href: 'https://bscscan.com/address/0x9b5716Bc0c5853EA54BbFC9d7e2f6d6Ffc123FCF',
       },
       // {
       //   label: 'CoinGecko',

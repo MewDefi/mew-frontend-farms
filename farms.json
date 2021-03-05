@@ -6,8 +6,8 @@
   "nativeAllocation": 1000,
   "tokenName": "Mew",
   "tokenSymbol": "MEW",
-  "tokenAddress": "0x83a0a1aebc347e36e45df6b83aaf85419bcf9411",
-  "tokenBusdLpAddress": "0xd6c195cab85e59ace86d473e2e1072178a7559fc",
+  "tokenAddress": "0x9b5716bc0c5853ea54bbfc9d7e2f6d6ffc123fcf",
+  "tokenBusdLpAddress": "0xca2aeb3d75e899e3e5d76509272d71042ada8812",
   "tokenBnbLpAddress": "0x737ae23900dd4b9174c195effb01be5d6d838e51",
   "pools": [
     {
@@ -230,15 +230,6 @@
       "lpSymbol": "DOGE-BUSD LP",
       "lpAddress": "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3",
       "tokenSymbol": "DOGE",
-      "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
-      "quoteTokenSymbol": "QuoteToken.BUSD",
-      "quoteTokenAddress": "contracts.busd"
-    },
-    {
-      "allocation": 200,
-      "lpSymbol": "DODO-BUSD LP",
-      "lpAddress": "0x1efcb446bfa553a2eb2fff99c9f76962be6ecac3",
-      "tokenSymbol": "DODO",
       "tokenAddress": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
       "quoteTokenSymbol": "QuoteToken.BUSD",
       "quoteTokenAddress": "contracts.busd"
